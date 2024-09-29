@@ -1,6 +1,6 @@
-import img2 from '@/assets/imgs/cards/2602299_10.jpg'
-import img4 from '@/assets/imgs/cards/2602299_24.jpg'
-import img6 from '@/assets/imgs/luxury_terrace-wallpaper-1680x1050.jpg'
+import img2 from '../assets/imgs/cards/2602299_10.jpg'
+import img4 from '../assets/imgs/cards/2602299_24.jpg'
+import img6 from '../assets/imgs/luxury_terrace-wallpaper-1680x1050.jpg'
 
 export default function Grid() {
 

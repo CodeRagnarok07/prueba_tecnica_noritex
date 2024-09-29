@@ -6,7 +6,7 @@ import Grid from './components/GridLayer'
 import Feactures from './components/Feactures'
 import Map from './components/Map'
 
-import imagen from '@/assets/imgs/simple_room-wallpaper-1680x1050.jpg'
+import imagen from './assets/imgs/luxury_bungalow-wallpaper-1680x1050.jpg'
 
 
 
