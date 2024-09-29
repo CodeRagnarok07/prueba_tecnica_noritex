@@ -9,9 +9,9 @@ function App() {
     ]
 
     return (
-      <div>
+      <div className='relative z-10'>
 
-     <nav className='container mx-auto text-[#9B9FA2] flex justify-between'>
+     <nav className='container mx-auto  text-gray-400 flex justify-between'>
       <ul className='flex gap-8 items-center '>
          <a href="/">
         <img className='w-auto h-[80px]' src={logo} alt="" />
@@ -22,7 +22,7 @@ function App() {
          ))}
          
       </ul>
-      <ul className='flex gap-8 items-center '>
+      <ul className='text-gray-600 flex gap-8 items-center '>
          {rightLinks.map((link) => (
             <li><a href={link}>{link}</a></li>
             
